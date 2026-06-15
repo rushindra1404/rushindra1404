@@ -118,81 +118,38 @@ Rapid AI solution development for real-world problem statements.
 
 ---
 
-# 🎓 AI CERTIFICATION COMMAND CENTER
+# 🎓 CYBERPUNK CERTIFICATION WALL
 
 <div align="center">
 
-<table>
-<tr>
+<a href="https://www.credly.com/users/rushindra">
+<img src="./IBM AI Professional Badge.png" width="190" alt="IBM AI Engineering Professional Certificate"/>
+</a>
 
-<td align="center">
+<a href="https://www.credly.com/users/rushindra">
+<img src="./google-ai-professional-certificate.png" width="190" alt="Google AI Professional Certificate"/>
+</a>
 
-🥇
+<a href="https://www.credly.com/users/rushindra">
+<img src="./ibm-deep-learning-with-pytorch-keras-and-tensorflow.png" width="190" alt="IBM Deep Learning with PyTorch, Keras and TensorFlow"/>
+</a>
 
-### IBM AI Engineering Professional Certificate
+<br><br>
 
-<img src="https://img.shields.io/badge/IBM-AI_Engineering-00F5FF?style=for-the-badge&logo=ibm&logoColor=black"/>
+<a href="https://www.credly.com/users/rushindra">
+<img src="./ai-capstone-project-with-deep-learning.png" width="190" alt="AI Capstone Project with Deep Learning"/>
+</a>
 
-</td>
+<a href="https://www.credly.com/users/rushindra">
+<img src="./google-ai-essentials.png" width="190" alt="Google AI Essentials"/>
+</a>
 
-<td align="center">
-
-🥈
-
-### Google AI Professional Certificate
-
-<img src="https://img.shields.io/badge/Google-AI_Professional-7C3AED?style=for-the-badge&logo=google&logoColor=white"/>
-
-</td>
-
-<td align="center">
-
-🥉
-
-### IBM Deep Learning Professional Certificate
-
-<img src="https://img.shields.io/badge/Pytorch+Keras+TensorFlow-Deep_Learning-00F5FF?style=for-the-badge"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
-<td align="center">
-
-### 🤖 AI Capstone Project with Deep Learning
-
-<img src="https://img.shields.io/badge/AI-Capstone_Project-7C3AED?style=for-the-badge"/>
-
-</td>
-
-<td align="center">
-
-### ⚡ Google AI Essentials
-
-<img src="https://img.shields.io/badge/Google-AI_Essentials-00F5FF?style=for-the-badge&logo=google&logoColor=black"/>
-
-</td>
-
-<td align="center">
-
-### 📊 Alteryx Designer Core Certification
-
-<img src="https://img.shields.io/badge/Alteryx-Designer_Core-7C3AED?style=for-the-badge"/>
-
-</td>
-
-</tr>
-</table>
+<a href="https://www.credly.com/users/rushindra">
+<img src="./alteryx-designer-core-certification.png" width="190" alt="Alteryx Designer Core Certification"/>
+</a>
 
 </div>
 
----
 
 # 📊 GITHUB ANALYTICS
 
